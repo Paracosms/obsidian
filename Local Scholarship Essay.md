@@ -22,4 +22,4 @@ Describe the world you come form, (e.g. your family, community, or school). Tell
 THESIS:
 Born into the generation with a heavy reliance on the internet .
 
-Coming from a Christian Filipino family, I looked up to my parents who were able to thrive in the US as first generation immigrants. My dad, working a job as a data analyst, bestowed on me my very 
+Coming from a Christian Filipino family, I looked up to my parents who were able to thrive in the US as first generation immigrants. My dad, working a job as a data analyst, bestowed on me my very first computer: an old Dell laptop.
