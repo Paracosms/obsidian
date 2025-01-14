@@ -5,7 +5,7 @@ Describe the world you come form, (e.g. your family, community, or school). Tell
 
 - Describe the world I come from
     - I come from a Christian Filipino family who are first generation immigrants to the US from the Philippines
-    - Growing up in the era of a rapidly developing world wide web, I was practically raised by the internet
+    - Growing up in the era of a maturing world wide web, I was practically raised by the internet
     - I learned through technology and how to use its power from a young age (taking Khan Academy programming courses in 3rd grade)
 - How has my world shaped my dreams and aspirations?
     - From being constantly immersed in technology, I took a deep interest in the software development process, particularly intrigued by how video games were made
@@ -19,5 +19,7 @@ Describe the world you come form, (e.g. your family, community, or school). Tell
 - Conclusion
     - Most importantly, college would give me the resources and knowledge I need to be able to give back to the internet that raised me; I want to develop and contribute to software that makes the world a better place.
 
-Born into the digital age, I grew up with a .
-Coming from a Christian Filipino family, I looked up to my parents who were able to thrive in the US as first generation immigrants.
+THESIS:
+Born into the generation with a heavy reliance on the internet .
+
+Coming from a Christian Filipino family, I looked up to my parents who were able to thrive in the US as first generation immigrants. My dad, working a job as a data analyst, bestowed on me my very 
