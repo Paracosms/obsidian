@@ -19,4 +19,5 @@ Describe the world you come form, (e.g. your family, community, or school). Tell
 - Conclusion
     - Most importantly, college would give me the resources and knowledge I need to be able to give back to the internet that raised me; I want to develop and contribute to software that makes the world a better place.
 
-I come from a world where 
+Born into the digital age, I grew up with a .
+Coming from a Christian Filipino family, I looked up to my parents who were able to thrive in the US as first generation immigrants.
