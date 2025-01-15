@@ -25,7 +25,8 @@ Born into the generation with a heavy reliance on the internet .
 Coming from a Christian Filipino family, I looked up to my parents who were able to thrive in the US as first generation immigrants. 
 TRANSITION
 My dad, working a job as a data analyst, bestowed on me my very first computer: an old Dell laptop.
-Exploring how different programs function on my computer, I fell a down a rabbit hole of videos and walls of text explaining what code is and how it works. After descending deeper, I emerged a few weeks later with certifica
+Exploring how different programs function on my computer, I fell a down a rabbit hole of videos and walls of text explaining what code is and how it works. After descending deeper, I emerged a few weeks later with certificate of completion for Khan Academy's introductory computer programming course. Putting my new coding skills to use, I worked on minor projects for the next couple of years. I learned programming languages like Java and C# to create plugins and mods for the games I played. Whenever my code malfunctioned, I hacked away at the issue until I fixed it. It was a consistent cycle of Googling, understanding my error, and modifying my code until it worked properly. 
+Despite that initial spark occurring almost a decade ago, I am still extremely passionate about programming. Specifically, I've found a special love for game development.
 
 
 
