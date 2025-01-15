@@ -24,7 +24,7 @@ Born into the generation with a heavy reliance on the internet .
 
 <mark style="background: #FF5582A6;">- Describe the world I come from</mark>
 - Coming from a Christian Filipino family, I looked up to my parents who were able to thrive in the US as first generation immigrants. Because of their XXX, I was able to have way more opportunities than if they hadn't moved. Following in their footsteps, I walked through life attempting to create my own opportunities. 
-(TRANSITION) One of the greatest opportunities I ever seized was taking advantage of my very first computer, bestowed on me when I
+(TRANSITION) 
 My dad, working a job as a data analyst, bestowed on me my very first computer: an old Dell laptop.
 MENTION
 - Growing up in the era of a maturing world wide web, I was practically raised by the internet
