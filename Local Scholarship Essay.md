@@ -23,15 +23,19 @@ THESIS:
 Born into the generation with a heavy reliance on the internet .
 
 <mark style="background: #FF5582A6;">- Describe the world I come from</mark>
-- Coming from a Christian Filipino family, I looked up to my parents who were able to thrive in the US as first generation immigrants. 
-TRANSITION
+- Coming from a Christian Filipino family, I looked up to my parents who were able to thrive in the US as first generation immigrants. Because of their XXX, I was able to have way more opportunities than if they hadn't moved. Following in their footsteps, I walked through life attempting to create my own opportunities. 
+(TRANSITION) One of the greatest opportunities I ever seized was taking advantage of my very first computer, bestowed on me when I
 My dad, working a job as a data analyst, bestowed on me my very first computer: an old Dell laptop.
+MENTION
+- Growing up in the era of a maturing world wide web, I was practically raised by the internet
 <mark style="background: #FFB86CA6;">- How has my world shaped my dreams and aspirations?</mark>
 - Exploring how different programs function on my computer, I fell a down a rabbit hole of videos and walls of text explaining what code is and how it works. After descending deeper, I emerged a few weeks later with certificate of completion for Khan Academy's introductory computer programming course. Putting my new coding skills to use, I worked on minor projects for the next couple of years. I learned programming languages like Java and C# to create plugins and mods for the games I played. Whenever my code malfunctioned, I hacked away at the issue until I fixed it. It was a consistent cycle of Googling, understanding my error, and modifying my code until it worked properly. 
 <mark style="background: #FFF3A3A6;">- What evidence do I have to prove my passion, and what are some goals I have?</mark>
-- Despite that initial spark occurring almost a decade ago, I am still extremely passionate about programming. Specifically, I've found a special love for game development. Recently I participated in a 48 hour game jam, an event where you make a game around a given theme within a short timeframe. After the event, I had built my very first standalone completed project: Pixel Pellets, a fast-paced top-down shooter where your screen resolution decreases each time you're hit.
+- Despite that initial spark occurring almost a decade ago, I am still extremely passionate about programming. Specifically, I've found a special love for game development. Recently I participated in a 48 hour game jam, an event where you make a game around a given theme within a short timeframe. After the event, I had built my very first standalone completed project: Pixel Pellets, a fast-paced 2D shooter where your screen resolution decreases each time you're hit. In the future, and throughout college, I plan to participate in more game jams and experiment with building software for real-world use.
 <mark style="background: #ABF7F7A6;">- Why is college important to me?</mark>
-
+- I want to graduate college with a computer science/software engineering degree, and obtain a job in either game development or software engineering
+- College is where I can finally take my learning of computer science and software engineering to the next level
+- I would meet a lot of new people who could potentially give me different ways to view the world and discover more about myself
 
 <mark style="background: #D2B3FFA6;">Conclusion</mark>
 - Most importantly, college would give me the resources and knowledge I need to be able to give back to the internet that raised me; I want to develop and contribute to software that makes the world a better place.
