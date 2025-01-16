@@ -29,15 +29,11 @@ Born into the generation with a heavy reliance on the internet .
 <mark style="background: #FFF3A3A6;">- What evidence do I have to prove my passion, and what are some goals I have?</mark>
 - Despite that initial spark occurring almost a decade ago, I am still extremely passionate about programming. Specifically, I've found a special love for game development. Recently I participated in a 48 hour game jam, an event where you make a game around a given theme within a short time frame. After the event, I had built my very first standalone completed project: Pixel Pellets, a fast-paced 2D shooter where your screen resolution decreases each time you're hit. In the future, and throughout college, I plan to participate in more game jams and experiment with building software for real-world use.
 <mark style="background: #ABF7F7A6;">- Why is college important to me?</mark>
+College is where I can finally take my learning of computer science and software engineering to the next level. While I’ve built a strong foundation on my own, I've avoided learning many topics that seemed to complex for me. At college, however, I would feel more comfortable engaging with th
+I would get the chance to learn about intimidating concepts through a high quality education. 
 
-- College is where I can finally take my learning of computer science and software engineering to the next level
-- I would meet a lot of new people who could potentially give me different ways to view the world and discover more about myself
 
-College is where I can finally take my learning of computer science and software engineering to the next level. While I’ve built a strong foundation on my own, I would get the chance to learn AT A HIGH QUALITY INSTITUTION :NERD: of topics I've been too intimidated by their complexity
-
-ollege will allow me to gain deeper insights, explore advanced concepts, and master techniques that are difficult to learn independently. It will provide structured guidance, access to expert professors, and state-of-the-art resources to refine my skills and broaden my understanding of software development.
-
-Moreover, college will help me grow in ways beyond academics. I would meet a lot of new people who could offer unique perspectives, both personally and professionally. Collaborating with peers from diverse backgrounds will expose me to different ways of thinking, ultimately challenging and expanding my worldview. Through these connections, I hope to discover more about myself, gain inspiration from others, and build lifelong relationships that will continue to shape my journey.
-
+learn AT A HIGH QUALITY INSTITUTION :NERD: of topics I've been too intimidated by their complexity.
+Additionally, going to college would open up many opportunities for me to explore different subjects that pique my interest. Beyond academics, I hope to meet many new people and form connections with them. Placing high value on fresh perspectives, I believe that going to college would expand my worldview and cause me to grow and mature as a person.
 <mark style="background: #D2B3FFA6;">Conclusion</mark>
 - Most importantly, college would give me the resources and knowledge I need to be able to give back to the internet that raised me; I want to develop and contribute to software that makes the world a better place.
