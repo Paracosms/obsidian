@@ -1,14 +1,14 @@
 {
 	"nodes":[
-		{"id":"0cf685bdf0c4346b","type":"text","text":"Menu","x":-193,"y":-182,"width":250,"height":60},
-		{"id":"99993b961f239f00","type":"text","text":"Slider to see how long the picture should stay up (and toggle)","x":133,"y":-208,"width":260,"height":112},
-		{"id":"240ce1052a4bcd25","type":"text","text":"Key Signature Mode","x":-20,"y":116,"width":250,"height":60},
-		{"id":"ca7ca9e0d3f32e40","type":"text","text":"Intervals Mode","x":-360,"y":116,"width":250,"height":60},
-		{"id":"56acd3d6e4e913dd","type":"text","text":"func newRound\nRandomize and display key signature","x":151,"y":524,"width":484,"height":85},
-		{"id":"00f589f9349e6ae9","type":"text","text":"check answer button\nonButtonPress\npass key signature to Keyboard Scene through signal","x":713,"y":509,"width":470,"height":100},
-		{"id":"17b274394a78b105","type":"text","text":"Keyboard Scene","x":853,"y":644,"width":190,"height":60},
-		{"id":"93219d74626306c7","x":795,"y":744,"width":307,"height":158,"type":"text","text":"func checkAnswers(keySignature)\nif selected keys are correct\nnewRound\nelse\nmessageIncorrect"},
-		{"id":"b68ed92d5972243a","type":"text","text":"KeySignature Scene","x":318,"y":360,"width":250,"height":60}
+		{"id":"0cf685bdf0c4346b","type":"text","text":"Menu","x":-193,"y":-182,"width":250,"height":60,"color":"6"},
+		{"id":"99993b961f239f00","type":"text","text":"Slider to see how long the picture should stay up (and toggle)","x":133,"y":-208,"width":260,"height":112,"color":"6"},
+		{"id":"240ce1052a4bcd25","type":"text","text":"Key Signature Mode","x":-20,"y":116,"width":250,"height":60,"color":"5"},
+		{"id":"ca7ca9e0d3f32e40","type":"text","text":"Intervals Mode","x":-360,"y":116,"width":250,"height":60,"color":"1"},
+		{"id":"56acd3d6e4e913dd","type":"text","text":"func newRound\nRandomize and display key signature","x":151,"y":524,"width":484,"height":85,"color":"5"},
+		{"id":"00f589f9349e6ae9","type":"text","text":"check answer button\nonButtonPress\npass key signature to Keyboard Scene through signal","x":713,"y":509,"width":470,"height":100,"color":"5"},
+		{"id":"17b274394a78b105","type":"text","text":"Keyboard Scene","x":853,"y":644,"width":190,"height":60,"color":"5"},
+		{"id":"93219d74626306c7","x":795,"y":744,"width":307,"height":158,"color":"5","type":"text","text":"func checkAnswers(keySignature)\nif selected keys are correct\nnewRound\nelse\nmessageIncorrect"},
+		{"id":"b68ed92d5972243a","type":"text","text":"KeySignature Scene","x":318,"y":360,"width":250,"height":60,"color":"5"}
 	],
 	"edges":[
 		{"id":"1b13717cea735460","fromNode":"0cf685bdf0c4346b","fromSide":"bottom","toNode":"ca7ca9e0d3f32e40","toSide":"top"},
