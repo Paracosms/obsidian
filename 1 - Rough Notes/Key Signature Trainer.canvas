@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"0cf685bdf0c4346b","x":-193,"y":-182,"width":250,"height":60,"type":"text","text":"Menu"},
+		{"id":"ca7ca9e0d3f32e40","x":-405,"y":116,"width":250,"height":60,"type":"text","text":"Intervals Mode"},
+		{"id":"240ce1052a4bcd25","x":8,"y":101,"width":250,"height":60,"type":"text","text":"Key Signature Mode"},
+		{"id":"99993b961f239f00","x":180,"y":-122,"width":260,"height":112,"type":"text","text":"Slider to see how long the picture should stay up (and toggle)"}
+	],
+	"edges":[
+		{"id":"1b13717cea735460","fromNode":"0cf685bdf0c4346b","fromSide":"bottom","toNode":"ca7ca9e0d3f32e40","toSide":"top"}
+	]
+}
