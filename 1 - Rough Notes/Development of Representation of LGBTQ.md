@@ -1,6 +1,6 @@
 Requirements
-- [ ] 3-5 min
-- [ ] Media Context
+- [x] 3-5 min
+- [x] Media Context
 - [x] Excerpt from reading
 
 
