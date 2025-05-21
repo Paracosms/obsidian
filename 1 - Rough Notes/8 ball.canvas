@@ -4,7 +4,6 @@
 		{"id":"3509c773b7c84da2","type":"text","text":"cue stick shoots towards cue ball and hits it, cue stick disappears while physics functions","x":8,"y":180,"width":312,"height":89},
 		{"id":"b8009930723ed80a","type":"text","text":"game start","x":39,"y":-200,"width":250,"height":60},
 		{"id":"678111bc1abc1f15","type":"text","text":"what kind of ball is knocked in, if any?","x":39,"y":340,"width":250,"height":60},
-		{"id":"def074c552e0ad88","type":"text","text":"repeat until a player knocks one in","x":420,"y":580,"width":250,"height":50},
 		{"id":"d5098357efb29d7d","type":"text","text":"player 1/2 is stripes","x":-320,"y":580,"width":250,"height":60},
 		{"id":"d6901d992c11407f","type":"text","text":"player 1/2 is solids","x":37,"y":580,"width":250,"height":60},
 		{"id":"88ef638c06d3499a","type":"text","text":"cue stick pointed at cue ball, is the trajectory of the ball going to hit player 1's assigned ball type?","x":3,"y":760,"width":323,"height":100},
@@ -12,16 +11,16 @@
 		{"id":"d8ffa3d7757461c0","type":"text","text":"display the trajectory of the ball","x":55,"y":1120,"width":250,"height":60},
 		{"id":"99fef38258ed92fa","type":"text","text":"cue stick shoots towards cue ball and hits it, cue stick disappears while physics functions","x":24,"y":1240,"width":312,"height":89},
 		{"id":"f315e04e86737b7f","type":"text","text":"what kind of ball is knocked in, if any?","x":55,"y":1440,"width":250,"height":60},
-		{"id":"1e090f0ff4920601","type":"text","text":"nothing","x":436,"y":1680,"width":250,"height":60},
-		{"id":"d0d05e0ce50992fb","type":"text","text":"if player 1 is stripes, add decrease ballsRemaining by 1","x":-304,"y":1680,"width":284,"height":80},
-		{"id":"9b5e21ec104876cf","type":"text","text":"if player 1 is stripes, add decrease ballsRemaining by 1","x":52,"y":1680,"width":284,"height":80}
+		{"id":"d0d05e0ce50992fb","type":"text","text":"if player is stripes, add decrease ballsRemaining by 1","x":-304,"y":1680,"width":284,"height":80},
+		{"id":"def074c552e0ad88","type":"text","text":"repeat until a player knocks one in","x":400,"y":340,"width":250,"height":50},
+		{"id":"1e090f0ff4920601","type":"text","text":"nothing","x":86,"y":1690,"width":250,"height":60},
+		{"id":"9b5e21ec104876cf","type":"text","text":"if player is solids, add decrease ballsRemaining by 1","x":440,"y":1680,"width":284,"height":80}
 	],
 	"edges":[
 		{"id":"b46bea1567e80048","fromNode":"b8009930723ed80a","fromSide":"bottom","toNode":"386cb658b207aa1b","toSide":"top","label":"mouse held"},
 		{"id":"45cd0c577021ccdb","fromNode":"386cb658b207aa1b","fromSide":"bottom","toNode":"3509c773b7c84da2","toSide":"top","label":"mouse held and released"},
 		{"id":"fe02e26ae6e1cefb","fromNode":"678111bc1abc1f15","fromSide":"bottom","toNode":"d5098357efb29d7d","toSide":"top","label":"stripes"},
 		{"id":"5edb6822e8c21b8c","fromNode":"678111bc1abc1f15","fromSide":"bottom","toNode":"d6901d992c11407f","toSide":"top","label":"solids"},
-		{"id":"2fb8010ff2b3efa4","fromNode":"678111bc1abc1f15","fromSide":"bottom","toNode":"def074c552e0ad88","toSide":"top","label":"none"},
 		{"id":"2987775c3d22fa34","fromNode":"3509c773b7c84da2","fromSide":"bottom","toNode":"678111bc1abc1f15","toSide":"top","label":"balls stop moving"},
 		{"id":"0a8e5cd1d688bd9a","fromNode":"d5098357efb29d7d","fromSide":"bottom","toNode":"88ef638c06d3499a","toSide":"left","label":"next turn"},
 		{"id":"d606d259f81a360f","fromNode":"d6901d992c11407f","fromSide":"bottom","toNode":"88ef638c06d3499a","toSide":"top","label":"next turn"},
@@ -31,6 +30,11 @@
 		{"id":"cc4cac67402b6a26","fromNode":"d8ffa3d7757461c0","fromSide":"bottom","toNode":"99fef38258ed92fa","toSide":"top"},
 		{"id":"542d77aa0d882d4c","fromNode":"f315e04e86737b7f","fromSide":"bottom","toNode":"d0d05e0ce50992fb","toSide":"top","label":"stripes"},
 		{"id":"fcd85dcbf91c1f85","fromNode":"f315e04e86737b7f","fromSide":"bottom","toNode":"1e090f0ff4920601","toSide":"top","label":"none"},
-		{"id":"f65e67348cda2fde","fromNode":"99fef38258ed92fa","fromSide":"bottom","toNode":"f315e04e86737b7f","toSide":"top","label":"balls stop moving"}
+		{"id":"f65e67348cda2fde","fromNode":"99fef38258ed92fa","fromSide":"bottom","toNode":"f315e04e86737b7f","toSide":"top","label":"balls stop moving"},
+		{"id":"6b997c497c03be77","fromNode":"def074c552e0ad88","fromSide":"top","toNode":"386cb658b207aa1b","toSide":"right"},
+		{"id":"b4764fe1d7abac01","fromNode":"def074c552e0ad88","fromSide":"bottom","toNode":"678111bc1abc1f15","toSide":"bottom","label":"none"},
+		{"id":"811a438d1ae6d1b3","fromNode":"f315e04e86737b7f","fromSide":"bottom","toNode":"9b5e21ec104876cf","toSide":"top","label":"solids"},
+		{"id":"15b9369febdc93c7","fromNode":"9b5e21ec104876cf","fromSide":"right","toNode":"d8ffa3d7757461c0","toSide":"right","label":"next turn"},
+		{"id":"5373c66681576cdc","fromNode":"d0d05e0ce50992fb","fromSide":"left","toNode":"d8ffa3d7757461c0","toSide":"left","label":"next turn"}
 	]
 }
