@@ -14,7 +14,11 @@
 		{"id":"d0d05e0ce50992fb","type":"text","text":"if player is stripes, add decrease ballsRemaining by 1","x":-304,"y":1680,"width":284,"height":80},
 		{"id":"def074c552e0ad88","type":"text","text":"repeat until a player knocks one in","x":400,"y":340,"width":250,"height":50},
 		{"id":"1e090f0ff4920601","type":"text","text":"nothing","x":86,"y":1690,"width":250,"height":60},
-		{"id":"9b5e21ec104876cf","type":"text","text":"if player is solids, add decrease ballsRemaining by 1","x":440,"y":1680,"width":284,"height":80}
+		{"id":"9b5e21ec104876cf","type":"text","text":"if player is solids, add decrease ballsRemaining by 1","x":440,"y":1680,"width":284,"height":80},
+		{"id":"5a52752c72fa262c","x":1680,"y":-200,"width":250,"height":60,"type":"text","text":"power bar dragged and then released"},
+		{"id":"affa5abc03bb3277","x":1680,"y":-60,"width":250,"height":100,"type":"text","text":"transition from current position to initialPosition using slope(lockedAngle)"},
+		{"id":"373b994af9ed0436","x":1860,"y":166,"width":434,"height":59,"type":"text","text":"cueball.velocity.y = game.power * sin(lockedAngle)"},
+		{"id":"0a9d1ceea6565cd4","x":1300,"y":171,"width":448,"height":50,"type":"text","text":"cueball.velocity.x = game.power * cos(lockedAngle)"}
 	],
 	"edges":[
 		{"id":"b46bea1567e80048","fromNode":"b8009930723ed80a","fromSide":"bottom","toNode":"386cb658b207aa1b","toSide":"top","label":"mouse held"},
@@ -35,6 +39,9 @@
 		{"id":"b4764fe1d7abac01","fromNode":"def074c552e0ad88","fromSide":"bottom","toNode":"678111bc1abc1f15","toSide":"bottom","label":"none"},
 		{"id":"811a438d1ae6d1b3","fromNode":"f315e04e86737b7f","fromSide":"bottom","toNode":"9b5e21ec104876cf","toSide":"top","label":"solids"},
 		{"id":"15b9369febdc93c7","fromNode":"9b5e21ec104876cf","fromSide":"right","toNode":"d8ffa3d7757461c0","toSide":"right","label":"next turn"},
-		{"id":"5373c66681576cdc","fromNode":"d0d05e0ce50992fb","fromSide":"left","toNode":"d8ffa3d7757461c0","toSide":"left","label":"next turn"}
+		{"id":"5373c66681576cdc","fromNode":"d0d05e0ce50992fb","fromSide":"left","toNode":"d8ffa3d7757461c0","toSide":"left","label":"next turn"},
+		{"id":"e59222ba12e71375","fromNode":"5a52752c72fa262c","fromSide":"bottom","toNode":"affa5abc03bb3277","toSide":"top"},
+		{"id":"77099f6eb8b7009c","fromNode":"affa5abc03bb3277","fromSide":"bottom","toNode":"0a9d1ceea6565cd4","toSide":"top"},
+		{"id":"b4c6dd7ede5cb5ba","fromNode":"affa5abc03bb3277","fromSide":"bottom","toNode":"373b994af9ed0436","toSide":"top"}
 	]
 }
