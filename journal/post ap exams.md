@@ -3,9 +3,7 @@ ap stats
 - talk to everyone i knew
 - julia wiz mcdonalds
 - vanessa and i stuck in parking
-
-ap enviro
-
+-
 ap physics
 - surprisingly not that bad
 
@@ -21,3 +19,9 @@ post prom
 - kbbq on the way home
 - minecraft with yzi until 2am
 
+life after ap exams
+- beat pokemon silver at in n out
+- realizing how little time i have left to fill out the ta desk
+- kriss hangout
+- smash and balatro in stats
+- us
