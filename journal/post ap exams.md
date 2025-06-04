@@ -23,9 +23,11 @@ post prom
 
 life after ap exams
 - beat pokemon silver at in n out
-- realizing how little time i have left to fill out the ta desk
 - kriss hangout
 - smash and balatro in stats
 - mt diablo plans
 - small crush + structure
 - senior sunset
+- grad cap
+- yearbooks
+- ta desk comletion
