@@ -7,7 +7,7 @@ Environmental Science was not that bad. I sat next to EJ in the very far right c
 
 I then waited a week, because Physics 1 was my final AP on the final day of AP testing. I was pretty stressed out the night before. I didn't get the sleep schedule I wanted and ended up staying up a little later than I would've liked. I was pretty nervous on test day. Since there were only 2 periods taking the test, each person got a whole table to themselves. Starting the test, I thought the first few questions weren't that bad. I was aiming for a 3, so it was okay to guess on a few. I ended up finishing with enough time to check some difficult questions. After a short break, we moved onto the FRQ section. I genuinely think I did really good on this section. I completed every part with answers I was decently satisfied with. After the test, I called Nathaniel and talked to him about the test while we both drove home. We also played Balatro for the first time in a while.
 
-Prom was more fun than I was expecting. My parents drove me out to San Jose and dropped me off at the hotel we were staying at. I'm really thankful we were able to stay the night because we barely had a functioning plan until the week before. Anyways, I changed into my suit in the bathroom, and we walked around the area waiting for prom to start. We went to the outskirts of SJSU and found a burger place that was extremely cheap, and I even got a burger for free. 
+Prom was more fun than I was expecting. My parents drove me out to San Jose and dropped me off at the hotel we were staying at. I'm really thankful we were able to stay the night because we barely had a functioning plan until the week before. Anyways, I changed into my suit in the bathroom, and we walked around the area waiting for prom to start. Kyle took a couple pictures of me in my purple suit before we went out. We went to the outskirts of SJSU and found a burger place that was extremely cheap, and I even got a burger for free. Wisdom somehow forgot his wallet so Nathan, Kyle, and I went inside without him. Jackson got pulled away by his girlfriend. We wandered around a bit, exploring what the venue had to offer. Since it was a tech museum, there was actually quite a bit to do at the exhibits. After a while, Wisdom went to go hang out with Julia and her friend group, and Nathan was going around with Jackson to keep him company (I still genuinely believe he just hates his girlfriend)
 
 prom
 - purple guy
@@ -30,4 +30,4 @@ life after ap exams
 - senior sunset
 - grad cap
 - yearbooks
-- ta desk comletion
+- ta desk completion
