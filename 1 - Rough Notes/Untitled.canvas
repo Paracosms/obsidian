@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"7e647fc4432b1fd9","x":260,"y":-1140,"width":118,"height":60,"color":"6","type":"text","text":"Astral "},
+		{"id":"6f1a64cd0b37f806","x":-140,"y":-877,"width":250,"height":255,"type":"text","text":"**Synonyms**\ncelestial.\ninterstellar.\nstellar. \nstarry.\nstar.\nastronomical. \nastronomic. \nheavenly."},
+		{"id":"426d9322eab71e91","x":480,"y":-860,"width":250,"height":60,"type":"text","text":"**Ideas**"},
+		{"id":"c7ec1a8fe1ede5d9","x":319,"y":-656,"width":250,"height":69,"type":"text","text":"constellations"},
+		{"id":"0de8f0278f193875","x":680,"y":-656,"width":365,"height":107,"type":"text","text":"astra from valorant\ncontrol the environment from a out of bounds perspective"}
+	],
+	"edges":[
+		{"id":"b54826df69fb9075","fromNode":"426d9322eab71e91","fromSide":"bottom","toNode":"c7ec1a8fe1ede5d9","toSide":"top"}
+	]
+}
