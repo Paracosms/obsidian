@@ -1,25 +1,29 @@
 {
 	"nodes":[
-		{"id":"7e647fc4432b1fd9","x":260,"y":-1140,"width":118,"height":60,"color":"6","type":"text","text":"Astral "},
-		{"id":"6f1a64cd0b37f806","x":-140,"y":-877,"width":250,"height":255,"type":"text","text":"**Synonyms**\ncelestial.\ninterstellar.\nstellar. \nstarry.\nstar.\nastronomical. \nastronomic. \nheavenly."},
-		{"id":"426d9322eab71e91","x":680,"y":-920,"width":250,"height":60,"type":"text","text":"**Ideas**"},
-		{"id":"0de8f0278f193875","x":628,"y":-749,"width":365,"height":107,"type":"text","text":"astra from valorant\ncontrol the environment from a out of bounds perspective"},
-		{"id":"c7ec1a8fe1ede5d9","x":340,"y":-784,"width":250,"height":69,"type":"text","text":"constellations\nline rider"},
-		{"id":"aaaf84fbdf89da68","x":1080,"y":-890,"width":250,"height":123,"type":"text","text":"journey of the prairie king\n- upgrade system \n- boss "},
-		{"id":"f948a0cf98b8ec75","x":440,"y":-540,"width":360,"height":60,"type":"text","text":"constellations + out of bounds controls"},
-		{"id":"9c94409ccc8d8b65","x":440,"y":-383,"width":250,"height":60,"type":"text","text":"protect each star from asteroids"},
-		{"id":"9344c76a0e4348ec","x":400,"y":-300,"width":250,"height":60,"type":"text","text":"bunch of stars in a constellation"},
-		{"id":"2f65837faab21b69","x":280,"y":-180,"width":250,"height":60,"type":"text","text":"high score system\nhow long you last"},
-		{"id":"8f91b3dccac7a491","x":1560,"y":-565,"width":250,"height":50,"type":"text","text":"shop"},
-		{"id":"8823c66664b00ab4","x":1640,"y":-353,"width":250,"height":60,"type":"text","text":"build stars opposite player mouse"},
-		{"id":"1b3468c9ad8121a2","x":1620,"y":-422,"width":250,"height":60,"type":"text","text":"2nd constellation upgrade"},
-		{"id":"5393bef0462b2ec0","x":1140,"y":-565,"width":250,"height":60,"type":"text","text":"micormanaging game"},
-		{"id":"1454a365d1698d72","x":1100,"y":-422,"width":250,"height":60,"type":"text","text":"draw constellations to block"},
-		{"id":"a15b219b5280008d","x":760,"y":-60,"width":250,"height":60,"type":"text","text":"idle game"},
-		{"id":"a990adbf1fd55146","x":820,"y":40,"width":250,"height":58,"type":"text","text":"asteroids headed towards earth (protect earth)"}
+		{"id":"7e647fc4432b1fd9","type":"text","text":"Astral ","x":260,"y":-1140,"width":118,"height":60,"color":"6"},
+		{"id":"6f1a64cd0b37f806","type":"text","text":"**Synonyms**\ncelestial.\ninterstellar.\nstellar. \nstarry.\nstar.\nastronomical. \nastronomic. \nheavenly.","x":-140,"y":-877,"width":250,"height":255},
+		{"id":"426d9322eab71e91","type":"text","text":"**Ideas**","x":680,"y":-920,"width":250,"height":60},
+		{"id":"0de8f0278f193875","type":"text","text":"astra from valorant\ncontrol the environment from a out of bounds perspective","x":628,"y":-749,"width":365,"height":107},
+		{"id":"c7ec1a8fe1ede5d9","type":"text","text":"constellations\nline rider","x":340,"y":-784,"width":250,"height":69},
+		{"id":"aaaf84fbdf89da68","type":"text","text":"journey of the prairie king\n- upgrade system \n- boss ","x":1080,"y":-890,"width":250,"height":123},
+		{"id":"f948a0cf98b8ec75","type":"text","text":"constellations + out of bounds controls","x":440,"y":-540,"width":360,"height":60},
+		{"id":"9c94409ccc8d8b65","type":"text","text":"protect each star from asteroids","x":440,"y":-383,"width":250,"height":60},
+		{"id":"9344c76a0e4348ec","type":"text","text":"bunch of stars in a constellation","x":400,"y":-300,"width":250,"height":60},
+		{"id":"2f65837faab21b69","type":"text","text":"high score system\nhow long you last","x":280,"y":-180,"width":250,"height":60},
+		{"id":"8f91b3dccac7a491","type":"text","text":"shop","x":1560,"y":-565,"width":250,"height":50},
+		{"id":"8823c66664b00ab4","type":"text","text":"build stars opposite player mouse","x":1640,"y":-353,"width":250,"height":60},
+		{"id":"1b3468c9ad8121a2","type":"text","text":"2nd constellation upgrade","x":1620,"y":-422,"width":250,"height":60},
+		{"id":"5393bef0462b2ec0","type":"text","text":"micormanaging game","x":1140,"y":-565,"width":250,"height":60},
+		{"id":"1454a365d1698d72","type":"text","text":"draw constellations to block","x":1100,"y":-422,"width":250,"height":60},
+		{"id":"a15b219b5280008d","type":"text","text":"idle game","x":1120,"y":-40,"width":250,"height":60},
+		{"id":"a990adbf1fd55146","type":"text","text":"asteroids headed towards earth (protect earth)\n- different sizes\n- different properties","x":995,"y":100,"width":250,"height":140},
+		{"id":"cac35d4a6320c047","type":"text","text":"click asteroids to gain star points","x":840,"y":370,"width":250,"height":60},
+		{"id":"d076bbae700f7d25","type":"text","text":"todo by 7pm\n- asteroids coming to earth\n- lives system\n- clicking asteroids to kill\n\nextra\n- brainstorm upgrades","x":1580,"y":60,"width":400,"height":460},
+		{"id":"51c990f83bb6df05","type":"text","text":"break asteroids faster","x":1180,"y":520,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"44c453419c11ee2b","fromNode":"0de8f0278f193875","fromSide":"bottom","toNode":"f948a0cf98b8ec75","toSide":"top"},
-		{"id":"c747f3c64d1208e3","fromNode":"c7ec1a8fe1ede5d9","fromSide":"bottom","toNode":"f948a0cf98b8ec75","toSide":"top"}
+		{"id":"c747f3c64d1208e3","fromNode":"c7ec1a8fe1ede5d9","fromSide":"bottom","toNode":"f948a0cf98b8ec75","toSide":"top"},
+		{"id":"9890cb9e986afed1","fromNode":"a990adbf1fd55146","fromSide":"bottom","toNode":"cac35d4a6320c047","toSide":"top"}
 	]
 }
