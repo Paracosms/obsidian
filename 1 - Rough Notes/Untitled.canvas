@@ -1,6 +1,5 @@
 {
 	"nodes":[
-		{"id":"a990adbf1fd55146","x":1345,"y":-372,"width":250,"height":60,"type":"text","text":""},
 		{"id":"7e647fc4432b1fd9","x":260,"y":-1140,"width":118,"height":60,"color":"6","type":"text","text":"Astral "},
 		{"id":"6f1a64cd0b37f806","x":-140,"y":-877,"width":250,"height":255,"type":"text","text":"**Synonyms**\ncelestial.\ninterstellar.\nstellar. \nstarry.\nstar.\nastronomical. \nastronomic. \nheavenly."},
 		{"id":"426d9322eab71e91","x":680,"y":-920,"width":250,"height":60,"type":"text","text":"**Ideas**"},
@@ -11,8 +10,13 @@
 		{"id":"9c94409ccc8d8b65","x":440,"y":-383,"width":250,"height":60,"type":"text","text":"protect each star from asteroids"},
 		{"id":"9344c76a0e4348ec","x":400,"y":-300,"width":250,"height":60,"type":"text","text":"bunch of stars in a constellation"},
 		{"id":"2f65837faab21b69","x":280,"y":-180,"width":250,"height":60,"type":"text","text":"high score system\nhow long you last"},
-		{"id":"5393bef0462b2ec0","x":1205,"y":-600,"width":250,"height":60,"type":"text","text":"micormanaging game"},
-		{"id":"1454a365d1698d72","x":1205,"y":-460,"width":250,"height":60,"type":"text","text":"draw constellations"}
+		{"id":"8f91b3dccac7a491","x":1560,"y":-565,"width":250,"height":50,"type":"text","text":"shop"},
+		{"id":"8823c66664b00ab4","x":1640,"y":-353,"width":250,"height":60,"type":"text","text":"build stars opposite player mouse"},
+		{"id":"1b3468c9ad8121a2","x":1620,"y":-422,"width":250,"height":60,"type":"text","text":"2nd constellation upgrade"},
+		{"id":"5393bef0462b2ec0","x":1140,"y":-565,"width":250,"height":60,"type":"text","text":"micormanaging game"},
+		{"id":"1454a365d1698d72","x":1100,"y":-422,"width":250,"height":60,"type":"text","text":"draw constellations to block"},
+		{"id":"a15b219b5280008d","x":760,"y":-60,"width":250,"height":60,"type":"text","text":"idle game"},
+		{"id":"a990adbf1fd55146","x":820,"y":40,"width":250,"height":58,"type":"text","text":"asteroids headed towards earth (protect earth)"}
 	],
 	"edges":[
 		{"id":"44c453419c11ee2b","fromNode":"0de8f0278f193875","fromSide":"bottom","toNode":"f948a0cf98b8ec75","toSide":"top"},
