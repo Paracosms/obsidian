@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"a990adbf1fd55146","x":1345,"y":-372,"width":250,"height":60,"type":"text","text":""},
 		{"id":"7e647fc4432b1fd9","x":260,"y":-1140,"width":118,"height":60,"color":"6","type":"text","text":"Astral "},
 		{"id":"6f1a64cd0b37f806","x":-140,"y":-877,"width":250,"height":255,"type":"text","text":"**Synonyms**\ncelestial.\ninterstellar.\nstellar. \nstarry.\nstar.\nastronomical. \nastronomic. \nheavenly."},
 		{"id":"426d9322eab71e91","x":680,"y":-920,"width":250,"height":60,"type":"text","text":"**Ideas**"},
@@ -7,10 +8,11 @@
 		{"id":"c7ec1a8fe1ede5d9","x":340,"y":-784,"width":250,"height":69,"type":"text","text":"constellations\nline rider"},
 		{"id":"aaaf84fbdf89da68","x":1080,"y":-890,"width":250,"height":123,"type":"text","text":"journey of the prairie king\n- upgrade system \n- boss "},
 		{"id":"f948a0cf98b8ec75","x":440,"y":-540,"width":360,"height":60,"type":"text","text":"constellations + out of bounds controls"},
-		{"id":"5393bef0462b2ec0","x":970,"y":-465,"width":250,"height":60,"type":"text","text":"micormanaging game"},
-		{"id":"9344c76a0e4348ec","x":750,"y":-353,"width":250,"height":60,"type":"text","text":"bunch of stars in a constellation"},
-		{"id":"9c94409ccc8d8b65","x":1037,"y":-361,"width":250,"height":60,"type":"text","text":"protect each star from asteroids"},
-		{"id":"2f65837faab21b69","x":912,"y":-220,"width":250,"height":60,"type":"text","text":"high score system\nhow long you last"}
+		{"id":"9c94409ccc8d8b65","x":440,"y":-383,"width":250,"height":60,"type":"text","text":"protect each star from asteroids"},
+		{"id":"9344c76a0e4348ec","x":400,"y":-300,"width":250,"height":60,"type":"text","text":"bunch of stars in a constellation"},
+		{"id":"2f65837faab21b69","x":280,"y":-180,"width":250,"height":60,"type":"text","text":"high score system\nhow long you last"},
+		{"id":"5393bef0462b2ec0","x":1205,"y":-600,"width":250,"height":60,"type":"text","text":"micormanaging game"},
+		{"id":"1454a365d1698d72","x":1205,"y":-460,"width":250,"height":60,"type":"text","text":"draw constellations"}
 	],
 	"edges":[
 		{"id":"44c453419c11ee2b","fromNode":"0de8f0278f193875","fromSide":"bottom","toNode":"f948a0cf98b8ec75","toSide":"top"},
