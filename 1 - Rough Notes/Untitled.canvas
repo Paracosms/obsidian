@@ -23,7 +23,7 @@
 		{"id":"0b10d87a6cdc8ddd","type":"text","text":"starpoints:\n- currency\n- progression -> micromanaging","x":1300,"y":335,"width":380,"height":163},
 		{"id":"97218f05b38ecccf","type":"text","text":"ideas\n- meteor shower","x":1800,"y":302,"width":250,"height":196},
 		{"id":"4c9a58b29d2801ac","x":1380,"y":940,"width":250,"height":120,"type":"text","text":"the goal is to unlock all planets and complete the constellation"},
-		{"id":"6497456cd22653f3","x":1041,"y":1143,"width":250,"height":60,"type":"text","text":"7 planets (?)"}
+		{"id":"6497456cd22653f3","x":1041,"y":1143,"width":439,"height":377,"type":"text","text":"todo today:\n- earth art\n- background art\n- at least 1 other planet\n- at least 4 upgrades per shop\n- map (bottom right)"}
 	],
 	"edges":[
 		{"id":"44c453419c11ee2b","fromNode":"0de8f0278f193875","fromSide":"bottom","toNode":"f948a0cf98b8ec75","toSide":"top"},
