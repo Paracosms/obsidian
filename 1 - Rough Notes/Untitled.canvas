@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"4c9a58b29d2801ac","x":1505,"y":711,"width":250,"height":60,"type":"text","text":""},
 		{"id":"7e647fc4432b1fd9","type":"text","text":"Astral ","x":260,"y":-1140,"width":118,"height":60,"color":"6"},
 		{"id":"6f1a64cd0b37f806","type":"text","text":"**Synonyms**\ncelestial.\ninterstellar.\nstellar. \nstarry.\nstar.\nastronomical. \nastronomic. \nheavenly.","x":-140,"y":-877,"width":250,"height":255},
 		{"id":"426d9322eab71e91","type":"text","text":"**Ideas**","x":680,"y":-920,"width":250,"height":60},
@@ -18,8 +19,10 @@
 		{"id":"a15b219b5280008d","type":"text","text":"idle game","x":1120,"y":-40,"width":250,"height":60},
 		{"id":"a990adbf1fd55146","type":"text","text":"asteroids headed towards earth (protect earth)\n- different sizes\n- different properties","x":995,"y":100,"width":250,"height":140},
 		{"id":"cac35d4a6320c047","type":"text","text":"click asteroids to gain star points","x":840,"y":370,"width":250,"height":60},
-		{"id":"51c990f83bb6df05","type":"text","text":"break asteroids faster","x":1180,"y":520,"width":250,"height":60},
-		{"id":"d076bbae700f7d25","type":"text","text":"todo by 7pm\n- asteroids coming to earth\n- lives system\n- clicking asteroids to kill\n\nextra\n- brainstorm upgrades","x":1580,"y":-180,"width":400,"height":240}
+		{"id":"d076bbae700f7d25","type":"text","text":"todo by 7pm\n- asteroids coming to earth\n- lives system\n- clicking asteroids to kill\n\nextra\n- brainstorm upgrades","x":1580,"y":-180,"width":400,"height":240},
+		{"id":"51c990f83bb6df05","type":"text","text":"break asteroids faster","x":900,"y":520,"width":250,"height":60},
+		{"id":"0b10d87a6cdc8ddd","type":"text","text":"starpoints:\n- currency\n- progression -> micromanaging","x":1300,"y":335,"width":380,"height":163},
+		{"id":"97218f05b38ecccf","type":"text","text":"ideas\n- meteor shower","x":1800,"y":302,"width":250,"height":196}
 	],
 	"edges":[
 		{"id":"44c453419c11ee2b","fromNode":"0de8f0278f193875","fromSide":"bottom","toNode":"f948a0cf98b8ec75","toSide":"top"},
