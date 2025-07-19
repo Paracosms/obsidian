@@ -24,11 +24,27 @@
 		{"id":"97218f05b38ecccf","type":"text","text":"ideas\n- meteor shower","x":1800,"y":302,"width":250,"height":196},
 		{"id":"4c9a58b29d2801ac","x":1380,"y":940,"width":250,"height":120,"type":"text","text":"the goal is to unlock all planets and complete the constellation"},
 		{"id":"6497456cd22653f3","x":1041,"y":1143,"width":299,"height":217,"type":"text","text":"todo today:\n- earth art\n- background art\n- at least 1 other planet\n- at least 4 upgrades per shop\n- map (bottom right)"},
-		{"id":"825eff83ddcded2b","x":1539,"y":1339,"width":341,"height":381,"type":"text","text":"the lore so far:\n\nyou are a being who is sent to protect the constellations\n\nexplore the constellation and protect it until it is fully revealed"}
+		{"id":"825eff83ddcded2b","x":1539,"y":1339,"width":341,"height":381,"type":"text","text":"the lore so far:\n\nyou are a being who is sent to protect the constellations\n\nexplore the constellation and protect it until it is fully revealed"},
+		{"id":"6cd38bd627d759b4","x":2680,"y":950,"width":250,"height":50,"type":"text","text":"small size asteroid (delta)"},
+		{"id":"7a191b7afd8c26fe","x":2430,"y":1030,"width":250,"height":60,"type":"text","text":"speed asteroid (gamma)"},
+		{"id":"f0b6d4b3de2ca2e4","x":2140,"y":1030,"width":240,"height":60,"type":"text","text":"health asteroid (beta)"},
+		{"id":"46cdad7f003a91b3","x":1940,"y":950,"width":160,"height":50,"type":"text","text":"base asteroid"},
+		{"id":"fa0a3ee49e0b5cbe","x":2281,"y":720,"width":250,"height":60,"type":"text","text":"spawn asteroid"},
+		{"id":"e4b293536b53dd52","x":2247,"y":1252,"width":319,"height":51,"type":"text","text":"base asteroid stats calculator"},
+		{"id":"f855351b1dde150b","x":2256,"y":1411,"width":299,"height":119,"type":"text","text":"based on the type of asteroid, add percentage based increases to their specialties"}
 	],
 	"edges":[
 		{"id":"44c453419c11ee2b","fromNode":"0de8f0278f193875","fromSide":"bottom","toNode":"f948a0cf98b8ec75","toSide":"top"},
 		{"id":"c747f3c64d1208e3","fromNode":"c7ec1a8fe1ede5d9","fromSide":"bottom","toNode":"f948a0cf98b8ec75","toSide":"top"},
-		{"id":"9890cb9e986afed1","fromNode":"a990adbf1fd55146","fromSide":"bottom","toNode":"cac35d4a6320c047","toSide":"top"}
+		{"id":"9890cb9e986afed1","fromNode":"a990adbf1fd55146","fromSide":"bottom","toNode":"cac35d4a6320c047","toSide":"top"},
+		{"id":"547bf7a3e9c76897","fromNode":"fa0a3ee49e0b5cbe","fromSide":"bottom","toNode":"46cdad7f003a91b3","toSide":"top"},
+		{"id":"6ec2852ae19d34ac","fromNode":"fa0a3ee49e0b5cbe","fromSide":"bottom","toNode":"f0b6d4b3de2ca2e4","toSide":"top"},
+		{"id":"83b17d7e176a32da","fromNode":"fa0a3ee49e0b5cbe","fromSide":"bottom","toNode":"7a191b7afd8c26fe","toSide":"top"},
+		{"id":"a0f03ede2e19977d","fromNode":"fa0a3ee49e0b5cbe","fromSide":"bottom","toNode":"6cd38bd627d759b4","toSide":"top"},
+		{"id":"633b58f5a0cd4a57","fromNode":"7a191b7afd8c26fe","fromSide":"bottom","toNode":"e4b293536b53dd52","toSide":"top"},
+		{"id":"cabddf462884fc73","fromNode":"f0b6d4b3de2ca2e4","fromSide":"bottom","toNode":"e4b293536b53dd52","toSide":"top"},
+		{"id":"62d09c5d2051d9cd","fromNode":"46cdad7f003a91b3","fromSide":"bottom","toNode":"e4b293536b53dd52","toSide":"left"},
+		{"id":"1e09ebf82682acf6","fromNode":"6cd38bd627d759b4","fromSide":"bottom","toNode":"e4b293536b53dd52","toSide":"right"},
+		{"id":"028cbc497d671b5d","fromNode":"e4b293536b53dd52","fromSide":"bottom","toNode":"f855351b1dde150b","toSide":"top"}
 	]
 }
