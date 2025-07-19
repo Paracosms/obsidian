@@ -31,7 +31,9 @@
 		{"id":"46cdad7f003a91b3","x":1940,"y":950,"width":160,"height":50,"type":"text","text":"base asteroid"},
 		{"id":"fa0a3ee49e0b5cbe","x":2281,"y":720,"width":250,"height":60,"type":"text","text":"spawn asteroid"},
 		{"id":"e4b293536b53dd52","x":2247,"y":1252,"width":319,"height":51,"type":"text","text":"base asteroid stats calculator"},
-		{"id":"f855351b1dde150b","x":2256,"y":1411,"width":299,"height":119,"type":"text","text":"based on the type of asteroid, add percentage based increases to their specialties"}
+		{"id":"f855351b1dde150b","x":2256,"y":1411,"width":299,"height":119,"type":"text","text":"based on the type of asteroid, add percentage based increases to their specialties"},
+		{"id":"7ea6522c398b9bdb","x":3180,"y":720,"width":250,"height":60,"type":"text","text":"func switchTo"},
+		{"id":"fd6f5fba54924e33","x":3052,"y":869,"width":250,"height":60,"type":"text","text":"disable"}
 	],
 	"edges":[
 		{"id":"44c453419c11ee2b","fromNode":"0de8f0278f193875","fromSide":"bottom","toNode":"f948a0cf98b8ec75","toSide":"top"},
