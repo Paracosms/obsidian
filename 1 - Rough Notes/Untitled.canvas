@@ -22,18 +22,21 @@
 		{"id":"51c990f83bb6df05","type":"text","text":"break asteroids faster","x":900,"y":520,"width":250,"height":60},
 		{"id":"0b10d87a6cdc8ddd","type":"text","text":"starpoints:\n- currency\n- progression -> micromanaging","x":1300,"y":335,"width":380,"height":163},
 		{"id":"97218f05b38ecccf","type":"text","text":"ideas\n- meteor shower","x":1800,"y":302,"width":250,"height":196},
-		{"id":"4c9a58b29d2801ac","x":1380,"y":940,"width":250,"height":120,"type":"text","text":"the goal is to unlock all planets and complete the constellation"},
-		{"id":"6497456cd22653f3","x":1041,"y":1143,"width":299,"height":217,"type":"text","text":"todo today:\n- earth art\n- background art\n- at least 1 other planet\n- at least 4 upgrades per shop\n- map (bottom right)"},
-		{"id":"825eff83ddcded2b","x":1539,"y":1339,"width":341,"height":381,"type":"text","text":"the lore so far:\n\nyou are a being who is sent to protect the constellations\n\nexplore the constellation and protect it until it is fully revealed"},
-		{"id":"6cd38bd627d759b4","x":2680,"y":950,"width":250,"height":50,"type":"text","text":"small size asteroid (delta)"},
-		{"id":"7a191b7afd8c26fe","x":2430,"y":1030,"width":250,"height":60,"type":"text","text":"speed asteroid (gamma)"},
-		{"id":"f0b6d4b3de2ca2e4","x":2140,"y":1030,"width":240,"height":60,"type":"text","text":"health asteroid (beta)"},
-		{"id":"46cdad7f003a91b3","x":1940,"y":950,"width":160,"height":50,"type":"text","text":"base asteroid"},
-		{"id":"fa0a3ee49e0b5cbe","x":2281,"y":720,"width":250,"height":60,"type":"text","text":"spawn asteroid"},
-		{"id":"e4b293536b53dd52","x":2247,"y":1252,"width":319,"height":51,"type":"text","text":"base asteroid stats calculator"},
-		{"id":"f855351b1dde150b","x":2256,"y":1411,"width":299,"height":119,"type":"text","text":"based on the type of asteroid, add percentage based increases to their specialties"},
-		{"id":"7ea6522c398b9bdb","x":3180,"y":720,"width":250,"height":60,"type":"text","text":"func switchTo"},
-		{"id":"fd6f5fba54924e33","x":3052,"y":869,"width":250,"height":60,"type":"text","text":"disable"}
+		{"id":"4c9a58b29d2801ac","type":"text","text":"the goal is to unlock all planets and complete the constellation","x":1380,"y":940,"width":250,"height":120},
+		{"id":"6497456cd22653f3","type":"text","text":"todo today:\n- earth art\n- background art\n- at least 1 other planet\n- at least 4 upgrades per shop\n- map (bottom right)","x":1041,"y":1143,"width":299,"height":217},
+		{"id":"825eff83ddcded2b","type":"text","text":"the lore so far:\n\nyou are a being who is sent to protect the constellations\n\nexplore the constellation and protect it until it is fully revealed","x":1539,"y":1339,"width":341,"height":381},
+		{"id":"6cd38bd627d759b4","type":"text","text":"small size asteroid (delta)","x":2680,"y":950,"width":250,"height":50},
+		{"id":"7a191b7afd8c26fe","type":"text","text":"speed asteroid (gamma)","x":2430,"y":1030,"width":250,"height":60},
+		{"id":"f0b6d4b3de2ca2e4","type":"text","text":"health asteroid (beta)","x":2140,"y":1030,"width":240,"height":60},
+		{"id":"46cdad7f003a91b3","type":"text","text":"base asteroid","x":1940,"y":950,"width":160,"height":50},
+		{"id":"fa0a3ee49e0b5cbe","type":"text","text":"spawn asteroid","x":2281,"y":720,"width":250,"height":60},
+		{"id":"e4b293536b53dd52","type":"text","text":"base asteroid stats calculator","x":2247,"y":1252,"width":319,"height":51},
+		{"id":"f855351b1dde150b","type":"text","text":"based on the type of asteroid, add percentage based increases to their specialties","x":2256,"y":1411,"width":299,"height":119},
+		{"id":"7ea6522c398b9bdb","type":"text","text":"func switchTo","x":3180,"y":720,"width":250,"height":60},
+		{"id":"fd6f5fba54924e33","type":"text","text":"kill earth","x":3180,"y":820,"width":250,"height":60},
+		{"id":"71e809ade54097be","type":"text","text":"spawn planet","x":3180,"y":920,"width":250,"height":60},
+		{"id":"6fd32e4a45abf2e8","x":3180,"y":1030,"width":250,"height":60,"type":"text","text":"change difficulties"},
+		{"id":"74408be858847396","x":3180,"y":1140,"width":250,"height":60,"type":"text","text":"enable new asteroid type"}
 	],
 	"edges":[
 		{"id":"44c453419c11ee2b","fromNode":"0de8f0278f193875","fromSide":"bottom","toNode":"f948a0cf98b8ec75","toSide":"top"},
@@ -47,6 +50,10 @@
 		{"id":"cabddf462884fc73","fromNode":"f0b6d4b3de2ca2e4","fromSide":"bottom","toNode":"e4b293536b53dd52","toSide":"top"},
 		{"id":"62d09c5d2051d9cd","fromNode":"46cdad7f003a91b3","fromSide":"bottom","toNode":"e4b293536b53dd52","toSide":"left"},
 		{"id":"1e09ebf82682acf6","fromNode":"6cd38bd627d759b4","fromSide":"bottom","toNode":"e4b293536b53dd52","toSide":"right"},
-		{"id":"028cbc497d671b5d","fromNode":"e4b293536b53dd52","fromSide":"bottom","toNode":"f855351b1dde150b","toSide":"top"}
+		{"id":"028cbc497d671b5d","fromNode":"e4b293536b53dd52","fromSide":"bottom","toNode":"f855351b1dde150b","toSide":"top"},
+		{"id":"b940e3c63468fb15","fromNode":"7ea6522c398b9bdb","fromSide":"bottom","toNode":"fd6f5fba54924e33","toSide":"top"},
+		{"id":"158677dfac377eb4","fromNode":"fd6f5fba54924e33","fromSide":"bottom","toNode":"71e809ade54097be","toSide":"top"},
+		{"id":"1b75f051b45bcc88","fromNode":"71e809ade54097be","fromSide":"bottom","toNode":"6fd32e4a45abf2e8","toSide":"top"},
+		{"id":"ac8579c47b68a0a0","fromNode":"6fd32e4a45abf2e8","fromSide":"bottom","toNode":"74408be858847396","toSide":"top"}
 	]
 }
