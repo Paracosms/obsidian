@@ -1,6 +1,5 @@
 {
 	"nodes":[
-		{"id":"4c9a58b29d2801ac","x":1505,"y":711,"width":250,"height":60,"type":"text","text":""},
 		{"id":"7e647fc4432b1fd9","type":"text","text":"Astral ","x":260,"y":-1140,"width":118,"height":60,"color":"6"},
 		{"id":"6f1a64cd0b37f806","type":"text","text":"**Synonyms**\ncelestial.\ninterstellar.\nstellar. \nstarry.\nstar.\nastronomical. \nastronomic. \nheavenly.","x":-140,"y":-877,"width":250,"height":255},
 		{"id":"426d9322eab71e91","type":"text","text":"**Ideas**","x":680,"y":-920,"width":250,"height":60},
@@ -22,7 +21,9 @@
 		{"id":"d076bbae700f7d25","type":"text","text":"todo by 7pm\n- asteroids coming to earth\n- lives system\n- clicking asteroids to kill\n\nextra\n- brainstorm upgrades","x":1580,"y":-180,"width":400,"height":240},
 		{"id":"51c990f83bb6df05","type":"text","text":"break asteroids faster","x":900,"y":520,"width":250,"height":60},
 		{"id":"0b10d87a6cdc8ddd","type":"text","text":"starpoints:\n- currency\n- progression -> micromanaging","x":1300,"y":335,"width":380,"height":163},
-		{"id":"97218f05b38ecccf","type":"text","text":"ideas\n- meteor shower","x":1800,"y":302,"width":250,"height":196}
+		{"id":"97218f05b38ecccf","type":"text","text":"ideas\n- meteor shower","x":1800,"y":302,"width":250,"height":196},
+		{"id":"4c9a58b29d2801ac","x":1380,"y":940,"width":250,"height":120,"type":"text","text":"the goal is to unlock all planets and complete the constellation"},
+		{"id":"6497456cd22653f3","x":1041,"y":1143,"width":250,"height":60,"type":"text","text":"7 planets (?)"}
 	],
 	"edges":[
 		{"id":"44c453419c11ee2b","fromNode":"0de8f0278f193875","fromSide":"bottom","toNode":"f948a0cf98b8ec75","toSide":"top"},
