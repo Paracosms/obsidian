@@ -47,7 +47,7 @@
 		{"id":"000c42e1639d9e02","type":"text","text":"is current star alpha","x":983,"y":2460,"width":205,"height":60},
 		{"id":"bab75d5dcca04cce","type":"text","text":"randomizer = -1","x":995,"y":2580,"width":182,"height":60},
 		{"id":"46cdad7f003a91b3","type":"text","text":"base asteroid ","x":981,"y":2985,"width":182,"height":50},
-		{"id":"c650c8523e14f9cd","x":1932,"y":1342,"width":328,"height":358,"type":"text","text":"todo:\n- [ ] asteroid type sprites\n- [ ] difficulty balancing\n- [ ] retry button (on death screen)\n- [ ] name\n\n"},
+		{"id":"c650c8523e14f9cd","x":1932,"y":1342,"width":328,"height":358,"type":"text","text":"todo:\n- [ ] retry button (on death screen)\n- [ ] selection sounds\n- [ ] difficulty balancing\n- [ ] asteroid type sprites\n- [ ] name\n\n"},
 		{"id":"005ef0f7c2ca3818","x":2320,"y":1341,"width":250,"height":377,"type":"text","text":"disable before shipping:\n- [ ] starpoints yield = 1\n- [ ] disable all planets"}
 	],
 	"edges":[
